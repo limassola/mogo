@@ -47,7 +47,7 @@ hr{
 .intro{
     width: 100%;
     height: 100vh;
-    background: url(../images/images/intro.jpg) center no-repeat;
+    background: url(./intro.jpg) center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     justify-content: center;
